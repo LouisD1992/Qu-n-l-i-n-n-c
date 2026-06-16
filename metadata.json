@@ -1,0 +1,6 @@
+{
+  "name": "Quản lý Điện Nước",
+  "description": "Hệ thống thống kê, quản lý chỉ số điện nước và cảnh báo vượt ngưỡng tiêu biến cho các đơn vị thành viên",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
